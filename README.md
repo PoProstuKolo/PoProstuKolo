@@ -1,43 +1,72 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PoProstuKolo.PoProstuKolo&"  />
+</div>
+
 # 👋 Cześć, jestem Koło! 
+
+---
 
 ### 💻 Web Developer | 🔥 Pasjonat technologii | 🚀 Zawsze głodny wiedzy
 
-Mam na imię Kacper i zajmuję się tworzeniem stron internetowych opartych o **HTML**, **SCSS**, **JavaScript**, **PHP** i **MySQL**.  
+Mam na imię ***Kacper*** i zajmuję się tworzeniem stron internetowych opartych o **HTML**, **SCSS**, **JavaScript**, **PHP** i **MySQL**.  
 Programowanie to dla mnie więcej niż praca — to narzędzie do tworzenia rzeczy, które działają, pomagają i wyglądają dobrze.
 
-🔎 **Obecnie rozwijam umiejętności**:  
-- Wordpress i jego działanie  
+### 🔎 **Obecnie uczę się**:   
+- Wordpress i jego działanie
+  
 
-🔎 **Zamierzam poszerzyć wiedzę o**:  
-- React
-- TypeScript
-- Node.js i mongoDB
-
-🎯 **Mój cel**: Budować rzeczy, które nie tylko "są", ale **robią różnicę**.
+### 🎯 **Mój cel**: 
+- Budować rzeczy, które nie tylko "są", ale **robią różnicę**.
 
 ---
 
-## 🛠️ Stack technologiczny
-
-<p align="left"> 
-<a class="margin-left: 20px;" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a class="margin-left: 20px;" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a class="margin-left: 20px;" href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a class="margin-left: 20px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a class="margin-left: 20px;" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a class="margin-left: 20px;" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a class="margin-left: 20px;" href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> 
-<a class="margin-left: 20px;" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a class="margin-left: 20px;" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a class="margin-left: 20px;" href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-
-
----
-
-## 🚀 Aktualne projekty
+### 🚀 Aktualne projekty
 - Strona portfolio oparta
 - Aplikacja webowa do tworzenia testów
 - Aplikacja do oceny piosenek
+
+---
+
+### 🛠️ Języki i narzędzia
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+---
+
+<h3 align="left">🔥   Moje statystyki :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PoProstuKolo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ---
 
@@ -49,5 +78,3 @@ Programowanie to dla mnie więcej niż praca — to narzędzie do tworzenia rzec
 ---
 
 > _"W kodzie, jak w życiu: najprostsze rozwiązania często są najlepsze."_ 
-
-Dzięki, że tu jesteś! 👨‍💻
