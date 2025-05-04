@@ -27,10 +27,9 @@ Programowanie to dla mnie więcej niż praca — to narzędzie do tworzenia rzec
 ---
 
 ### 🚀 Aktualne projekty
-- Strona portfolio oparta
+- Strona portfolio
 - Aplikacja webowa do tworzenia testów
 - Aplikacja do oceny piosenek
-
 ---
 
 ### 🛠️ Języki i narzędzia
