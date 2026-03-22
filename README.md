@@ -70,8 +70,7 @@ Programowanie to dla mnie więcej niż praca — to narzędzie do tworzenia rzec
 ---
 
 ## 📫 Jak mnie znaleźć?
-- 📧 Email: kontakt@kolodev.pl
-- 🌐 Strona: [KoloDEV.pl](https://kolodev.pl)
+- 📧 Email: poprostukolo@gmail.com
 - 💬 Zawsze otwarty na rozmowę o kodzie, projektach albo współpracy!
 
 ---
